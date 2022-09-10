@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\bin\Debug\net6.0\19-GenericCollection.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\bin\Debug\net6.0\19-GenericCollection.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\bin\Debug\net6.0\19-GenericCollection.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\bin\Debug\net6.0\19-GenericCollection.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\bin\Debug\net6.0\19-GenericCollection.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\obj\Debug\net6.0\19-GenericCollection.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\obj\Debug\net6.0\19-GenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\obj\Debug\net6.0\19-GenericCollection.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\obj\Debug\net6.0\19-GenericCollection.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\obj\Debug\net6.0\19-GenericCollection.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\obj\Debug\net6.0\19-GenericCollection.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\obj\Debug\net6.0\refint\19-GenericCollection.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\obj\Debug\net6.0\19-GenericCollection.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\obj\Debug\net6.0\19-GenericCollection.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\19-GenericCollection\obj\Debug\net6.0\ref\19-GenericCollection.dll
